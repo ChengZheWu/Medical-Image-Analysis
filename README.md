@@ -9,7 +9,7 @@ I used the same data as the above paper and it had already been preprocessed. Th
 I fused the concepts of densenet and self-attention which was called non-local block in the above paper. The model I bulit was called DenseAttentionNet(DANet).  
 ![DANet](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/DANet.png)  
 Attention denoted self-attention , GAP denotes global average pooling, and FC Layer denotes fully connected layer.  
-![Dense Block](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/dense%20block.png)  
+![Dense Block](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/dense%20block.png = 50%)  
 Dense Block.  
 ![Self-Attention](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/self-attention.png)  
 Self-Attention.
@@ -28,5 +28,5 @@ ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
 DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
 
 ## Reference
-[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126 = )
+[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126)
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
