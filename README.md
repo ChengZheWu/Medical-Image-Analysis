@@ -9,4 +9,4 @@ I used the same data as the above paper and it had already been preprocessed. Th
 
 ## Result
 
-|Model  |AUC|Accuracy|Precision|Recall|
+| Model  | AUC| Accuracy| Precision| Recall|
