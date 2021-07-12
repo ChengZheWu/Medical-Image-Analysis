@@ -29,5 +29,6 @@ ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
 DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
 
 ## Reference
-[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126)  
-[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)  
+[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126)[GitHub](https://github.com/mundher/local-global)  
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
+[Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318)[GitHub](https://github.com/heykeetae/Self-Attention-GAN)
