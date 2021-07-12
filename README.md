@@ -29,8 +29,8 @@ ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
 DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
 
 ## Enviroment
-Operation Ststem: CentOS7  
-GPU: Nvidia Tesla V100 * 1
+ - Operation Ststem: CentOS7  
+ - GPU: Nvidia Tesla V100 * 1
 
 ## Reference
 [Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126) [[GitHub]](https://github.com/mundher/local-global)  
