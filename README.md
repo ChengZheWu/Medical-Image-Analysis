@@ -11,11 +11,11 @@ I used the same data as the above paper and it had already been preprocessed. Th
 
 Model         | AUC       | Accuracy  | Precision | Recall    | Remark
 :-------------|----------:|----------:|----------:|----------:|:----------
-DANet         |      95.17|      88.81|90.39      |85.71      |           
-Local-Global  |           |           |           |           |           
-BasicResNet   |           |           |           |           |           
-AllAtn        |           |           |           |           |           
-AllAtnBig     |           |           |           |           |           
-ResNet50      |           |           |           |           |           
-ResNet18      |           |           |           |           |           
-DenseNet121   |           |           |           |           |           
+DANet         |95.17      |88.81      |90.39      |85.71      |           
+Local-Global  |94.75      |87.16      |88.17      |84.48      |           
+BasicResNet   |90.00      |79.51      |73.87      |88.42      |           
+AllAtn        |94.45      |87.16      |87.41      |85.47      |           
+AllAtnBig     |94.89      |87.40      |89.87      |83.00      | 
+ResNet50      |93.33      |85.28      |85.39      |83.50      |Transfer Learning 
+ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
+DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
