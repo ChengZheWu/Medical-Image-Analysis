@@ -28,6 +28,10 @@ ResNet50      |93.33      |85.28      |85.39      |83.50      |Transfer Learning
 ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
 DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
 
+## Enviroment
+Operation Ststem: CentOS7
+GPU: Nvidia Tesla V100 * 1
+
 ## Reference
 [Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126) [[GitHub]](https://github.com/mundher/local-global)  
 [Self-Attention Generative Adversarial Networks](https://arxiv.org/abs/1805.08318) [[GitHub]](https://github.com/heykeetae/Self-Attention-GAN)  
