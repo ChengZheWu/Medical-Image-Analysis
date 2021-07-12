@@ -9,7 +9,13 @@ I used the same data as the above paper and it had already been preprocessed. Th
 
 ## Result
 
-Age           | Time  | Food | Gold | Requirement
-Feudal Age    | 02:10 |  500 |    0 | Dark Age building x 2
-Castle Age    | 02:40 |  800 |  200 | Feudal Age building x 2
-Imperial Age  | 03:30 | 1000 |  800 | Castle Age building x 2  
+Model         | AUC       | Accuracy  | Precision | Recall    | Remark
+:-------------|----------:|----------:|----------:|----------:|:----------
+DANet         |           |           |           |           |           
+Local-Global  |           |           |           |           |           
+BasicResNet   |           |           |           |           |           
+AllAtn        |           |           |           |           |           
+AllAtnBig     |           |           |           |           |           
+ResNet50      |           |           |           |           |           
+ResNet18      |           |           |           |           |           
+DenseNet121   |           |           |           |           |           
