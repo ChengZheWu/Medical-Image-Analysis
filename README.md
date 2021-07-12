@@ -11,7 +11,7 @@ I used the same data as the above paper and it had already been preprocessed. Th
 
 Model         | AUC       | Accuracy  | Precision | Recall    | Remark
 :-------------|----------:|----------:|----------:|----------:|:----------
-DANet         |95.17      |88.81      |90.39      |85.71      |           
+DANet         |95.17      |88.81      |90.39      |85.71      |My implementation           
 Local-Global  |94.75      |87.16      |88.17      |84.48      |           
 BasicResNet   |90.00      |79.51      |73.87      |88.42      |           
 AllAtn        |94.45      |87.16      |87.41      |85.47      |           
