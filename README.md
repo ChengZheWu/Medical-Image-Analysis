@@ -9,7 +9,7 @@ I used the same data as the above paper and it had already been preprocessed. Th
 I fused the concepts of densenet and self-attention which was called non-local block in the above paper. The model I bulit was called DenseAttentionNet(DANet).  
 ![DANet](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/DANet.png)  
 Attention denoted self-attention , GAP denotes global average pooling, and FC Layer denotes fully connected layer.  
-![Dense Block](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/dense%20block.png){:height="50%" width="50%"}  
+![Dense Block](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/dense%20block.png)  
 Dense Block.  
 ![Self-Attention](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/self-attention.png)  
 Self-Attention.
