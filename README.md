@@ -11,6 +11,10 @@ I fused the concepts of densenet and self-attention which was called non-local b
 where Attention denoted self-attention , GAP denotes global average pooling, and FC Layer denotes fully connected layer.  
 Fig.1 DANet    
   
+  
+  
+  
+  
 ![Dense Block](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/dense%20block.png)  
 Fig.2 Dense Block.  
   
