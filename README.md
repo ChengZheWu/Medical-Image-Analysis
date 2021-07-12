@@ -28,5 +28,5 @@ ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
 DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
 
 ## Reference
-[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126)
+[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126 = )
 [Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
