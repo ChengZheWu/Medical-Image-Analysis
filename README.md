@@ -6,7 +6,9 @@ In this project, I referred to this paper [Lung Nodule Classification using Deep
 I used the same data as the above paper and it had already been preprocessed. The data was extracted from LIDC-IDRI whcih was a public dataset for lung cancer analysis. 
 
 ## Model Architecture
+I fused the concepts of densenet and self-attention which was called non-local block in the above paper. The model I bulit was called DenseAttentionNet(DANet).
 ![DANet](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/DANet.png)
+GAP denotes global average pooling, FC Layer denotes fully connected layer.
 
 ## Result
 
@@ -20,3 +22,7 @@ AllAtnBig     |94.89      |87.40      |89.87      |83.00      |
 ResNet50      |93.33      |85.28      |85.39      |83.50      |Transfer Learning 
 ResNet18      |92.75      |85.16      |87.84      |80.05      |Transfer Learning
 DenseNet121   |92.71      |85.28      |87.27      |81.03      |Transfer Learning       
+
+## Reference
+[Lung Nodule Classification using Deep Local-Global Networks](https://arxiv.org/abs/1904.10126)
+[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)
