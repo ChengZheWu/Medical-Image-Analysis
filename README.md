@@ -6,3 +6,7 @@ In this project, I referred to this paper [Lung Nodule Classification using Deep
 I used the same data as the above paper and it had already been preprocessed. The data was extracted from LIDC-IDRI whcih was a public dataset for lung cancer analysis. 
 
 ## Model Architecture
+
+## Result
+
+|Model  |AUC|Accuracy|Precision|Recall|
