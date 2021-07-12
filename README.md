@@ -7,7 +7,7 @@ I used the same data as the above paper and it had already been preprocessed. Th
 
 ## Model Architecture
 I fused the concepts of densenet and self-attention which was called non-local block in the above paper. The model I bulit was called DenseAttentionNet(DANet).
-![DANet](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/DANet.png)
+![DANet](https://github.com/ChengZheWu/Medical-Image-Analysis/blob/main/images/DANet.png) 
 GAP denotes global average pooling, FC Layer denotes fully connected layer.
 
 ## Result
